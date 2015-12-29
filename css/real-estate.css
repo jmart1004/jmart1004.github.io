@@ -1382,3 +1382,15 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
     left: 0px;
   }
 }
+
+@media screen and (max-width: 1200px) {
+.navbar-inverse .navbar-nav > li > a {
+  font-size: 11px;
+}
+}
+
+@media screen and (max-width: 900px) {
+.navbar-inverse .navbar-nav > li > a {
+  font-size: 9px;
+}
+}
