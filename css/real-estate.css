@@ -1373,6 +1373,6 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
 	height:100%;
 }
 
-#ihf-main-container .areaPickerDefaultText {
+#areaPickerContainer .input-text, #areaPickerContainer input[type="text"], #areaPickerContainer input[type="input"] {
 	padding: 12px 0 5px 5px !important;
 }
