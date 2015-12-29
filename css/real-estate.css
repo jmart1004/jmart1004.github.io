@@ -1369,10 +1369,10 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
     fill: #d0bfbe;
 }
 
-#areaPickerInputWrapper {
+#ihf-main-container .form-control {
 	height:100%;
 }
 
-#areaPicker {
+#ihf-main-container .areaPickerDefaultText {
 	padding: 12px 0 5px 5px !important;
 }
