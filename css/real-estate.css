@@ -1368,3 +1368,11 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
     stroke-weight:0.1;
     fill: #d0bfbe;
 }
+
+#areaPickerInputWrapper {
+	height:100%;
+}
+
+#areaPicker {
+	padding: 12px 0 5px 5px !important;
+}
