@@ -1376,3 +1376,9 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
 #areaPickerContainer .input-text, #areaPickerContainer input[type="text"], #areaPickerContainer input[type="input"] {
 	padding: 12px 0 5px 5px !important;
 }
+
+@media screen and (min-width: 768px) {
+  #ihf-main-container .modal-dialog {
+    left: 0px;
+  }
+}
