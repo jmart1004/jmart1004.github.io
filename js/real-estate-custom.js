@@ -28,22 +28,6 @@ jQuery(document).ready(function () {
 
 });	//ready
 
-//all property slider
-$(document).ready(function () {
-
-    $("#property-slider").owlCarousel({
-        autoPlay: 4000, //Set AutoPlay to 3 seconds
-
-        items: 3,
-        itemsDesktop: [1199, 3],
-        itemsDesktopSmall: [979, 3],
-        itemsTablet: [768, 2],
-        itemsMobile: [479, 1],
-        pagination: false,
-        navigation: true,
-        navigationText: ["<i class='fa fa-angle-left'>", "<i class='fa fa-angle-right'>"]
-    });
-});
 
 //select box
 (function () {
@@ -88,13 +72,3 @@ $(window).load(function() {
             $(this).closest('.panel-heading').addClass('active');
         }
     });
-    
-         /* ===================================================================
-             TWEETIE -  TWITTER FEED PLUGIN THAT WORKS WITH NEW Twitter 1.1 API
-             ==================================================================== */
-            $('.tweet').twittie({
-                apiPath: 'twit-api/tweet.php',
-                dateFormat: '%b. %d, %Y',
-                template: '{{tweet}} <div class="date">{{date}}</div> <a href="{{url}}"{{screen_name}}',
-                count: 2
-            });
