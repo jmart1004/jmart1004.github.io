@@ -77,7 +77,7 @@ hr {
   -moz-border-radius: 0px;
   -ms-border-radius: 0px;
   border-radius: 0px;
-  background-color: #d9534f;
+  background-color: #b00046;
   padding: 3px 6px;
 }
 
@@ -91,12 +91,12 @@ a {
 
 a:hover,
 a:focus {
-  color: #d9534f;
+  color: #b00046;
   text-decoration: none;
 }
 
 .colored-text {
-  color: #d9534f;
+  color: #b00046;
 }
 
 /* Headings */
@@ -295,7 +295,7 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 }
 .title-section .link-arrow {
   padding: 2px 8px;
-  background-color: #d9534f;
+  background-color: #b00046;
   color: #fff;
   float: right;
   display: inline-block;
@@ -330,7 +330,7 @@ TOP BAR
 
 *********/
 .top-bar {
-  background-color: #d9534f;
+  background-color: #b00046;
 }
 .top-bar .top-welcome {
   color: #fff;
@@ -370,7 +370,7 @@ TOP BAR
 }
 
 .header-icon {
-  color: #d9534f;
+  color: #b00046;
   font-size: 24px;
   padding-right: 10px;
   vertical-align: -4px;
@@ -411,7 +411,7 @@ TOP BAR
   padding-right: 0;
 }
 .contact-info-blocks > div i {
-  color: #d9534f;
+  color: #b00046;
   margin-right: 5px;
 }
 .contact-info-blocks > div span {
@@ -436,7 +436,7 @@ TOP BAR
   -moz-border-radius: 2px;
   -ms-border-radius: 2px;
   border-radius: 2px;
-  background-color: #d9534f;
+  background-color: #b00046;
   border-top-left-radius: 0px;
   border-bottom-left-radius: 0px;
 }
@@ -457,7 +457,7 @@ TOP BAR
   border-radius: 0px;
 }
 .search-widget-2 .form-control:focus {
-  border-color: #d9534f;
+  border-color: #b00046;
 }
 .search-widget-2 .submit-2 {
   position: absolute;
@@ -471,7 +471,7 @@ NAVBAR
 
 *******/
 .navbar-inverse {
-  background-color: #d9534f;
+  background-color: #b00046;
   border-color: rgba(0, 0, 0, 0.1);
   width: 100%;
 }
@@ -648,7 +648,7 @@ NAVBAR
 .call-to-action {
   padding-top: 40px;
   padding-bottom: 25px;
-  background-color: #d9534f;
+  background-color: #b00046;
 }
 .call-to-action h3 {
   color: #fff;
@@ -689,7 +689,7 @@ buttons for real estate
 }
 
 .btn-red {
-  background-color: #d9534f;
+  background-color: #b00046;
   color: #fff;
 }
 .btn-red:hover, .btn-red:focus {
@@ -715,7 +715,7 @@ buttons for real estate
 }
 
 .slider-price {
-  background-color: #d9534f;
+  background-color: #b00046;
   color: #fff;
   padding: 10px 20px;
   font-size: 20px;
@@ -741,7 +741,7 @@ buttons for real estate
   height: 25px;
   line-height: 25px;
   text-align: center;
-  background-color: #d9534f;
+  background-color: #b00046;
 }
 
 .all-property-slider .owl-item {
@@ -784,7 +784,7 @@ buttons for real estate
   color: #fff;
   font-size: 12px;
   padding: 2px 8px;
-  background-color: #d9534f;
+  background-color: #b00046;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
@@ -859,19 +859,19 @@ buttons for real estate
   z-index: 2;
   color: #fff;
   cursor: default;
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #b00046;
+  border-color: #b00046;
 }
 
 .pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover {
   z-index: 3;
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #b00046;
+  border-color: #b00046;
 }
 
 .pagination > li > a, .pagination > li > span {
-  color: #d9534f;
+  color: #b00046;
 }
 
 /***thumb slider for detail gallery page**/
@@ -887,7 +887,7 @@ buttons for real estate
   line-height: 30px;
   text-align: center;
   text-shadow: none;
-  background-color: #d9534f;
+  background-color: #b00046;
   color: #fff;
 }
 .thumb-slider .flex-direction-nav a.flex-next:before {
@@ -936,7 +936,7 @@ buttons for real estate
 }
 
 .additional-amenities span.available {
-  color: #d9534f;
+  color: #b00046;
 }
 
 .agent-social a {
@@ -952,7 +952,7 @@ buttons for real estate
 }
 .agent-social a:hover {
   color: #fff;
-  background-color: #d9534f;
+  background-color: #b00046;
 }
 
 .about-agency h3 {
@@ -963,7 +963,7 @@ buttons for real estate
   float: left;
   margin-right: 5px;
   font-size: 15px;
-  color: #d9534f;
+  color: #b00046;
   width: 40px;
   height: 20px;
   text-align: center;
@@ -986,7 +986,7 @@ buttons for real estate
   padding: 20px;
 }
 .price-box .price-header h3 {
-  color: #d9534f;
+  color: #b00046;
   text-transform: uppercase;
   margin-bottom: 10px;
 }
@@ -1068,7 +1068,7 @@ buttons for real estate
   line-height: 32px;
   text-align: center;
   color: #fff;
-  background-color: #d9534f;
+  background-color: #b00046;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -1148,10 +1148,10 @@ buttons for real estate
   padding-bottom: 20px;
 }
 .tweet ul li a {
-  color: #d9534f;
+  color: #b00046;
 }
 .tweet ul li a:hover {
-  color: #d9534f;
+  color: #b00046;
   text-decoration: underline;
 }
 
@@ -1164,7 +1164,7 @@ buttons for real estate
 }
 .tag-list a:hover {
   color: #fff;
-  background-color: #d9534f;
+  background-color: #b00046;
 }
 .tag-list a i {
   margin-right: 3px;
