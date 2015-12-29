@@ -1265,3 +1265,8 @@ buttons for real estate
     display: none;
   }
 }
+
+.title-bar-1 {
+	background-color: #b00046;
+	border: 1px solid #c4004e;
+}
