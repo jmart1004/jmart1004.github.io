@@ -1400,3 +1400,7 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
   font-size: 12px;
 }
 }
+
+.nav li {
+	width:12.5%;
+}
