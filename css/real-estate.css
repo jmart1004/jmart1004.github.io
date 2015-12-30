@@ -1391,23 +1391,25 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
 @media screen and (max-width: 1200px) {
 .navbar-inverse .navbar-nav > li > a {
   font-size: 11px;
-  margin: 0 0 0 9px;
-  padding: 0 0 0 9px;
 }
 }
 
 @media screen and (max-width: 980px) {
 .navbar-inverse .navbar-nav > li > a {
   font-size: 8px;
-  margin: 0 0 0 6px;
-  padding: 0 0 0 6px;
+}
+#navbar li {
+	margin: 0 0 0 6px;
+	padding: 0 0 0 6px;
 }
 }
 
 @media screen and (max-width: 767px) {
 .navbar-inverse .navbar-nav > li > a {
   font-size: 12px;
-  margin: 0 0 0 4px;
-  padding: 0 0 0 4px;
+}
+#navbar li {
+	margin: 0 0 0 4px;
+	padding: 0 0 0 4px;
 }
 }
