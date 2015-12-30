@@ -1401,6 +1401,6 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
 }
 }
 
-.nav li {
+#navbar li {
 	width:12.5%;
 }
