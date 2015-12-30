@@ -1384,8 +1384,7 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
 }
 
 #navbar li {
-	margin: 0 0 0 9px;
-	padding: 0 0 0 9px;
+	margin: auto;
 }
 
 @media screen and (max-width: 1300px) {
@@ -1393,8 +1392,7 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
   font-size: 11px;
 }
 #navbar li {
-	margin: 0px -15px 0 0px;
-	padding: 0px 0 0 0px;
+	margin: auto;
 }
 }
 
@@ -1403,8 +1401,7 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
   font-size: 11px;
 }
 #navbar li {
-	margin: 0px -15px 0 0px;
-	padding: 0px 0 0 0px;
+	margin: auto;
 }
 }
 
