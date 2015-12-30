@@ -1396,20 +1396,16 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
 
 @media screen and (max-width: 980px) {
 .navbar-inverse .navbar-nav > li > a {
-  font-size: 8px;
+  font-size: 11px;
 }
 #navbar li {
-	margin: 0 0 0 6px;
-	padding: 0 0 0 6px;
+	margin: 15px 0 0 0px;
+	padding: 0px 0 0 0px;
 }
 }
 
 @media screen and (max-width: 767px) {
 .navbar-inverse .navbar-nav > li > a {
   font-size: 12px;
-}
-#navbar li {
-	margin: 0 0 0 4px;
-	padding: 0 0 0 4px;
 }
 }
