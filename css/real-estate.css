@@ -1384,7 +1384,8 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
 }
 
 #navbar li {
-	margin: auto;
+	margin: 0 0 0 9px;
+	padding: 0 0 0 9px;
 }
 
 @media screen and (max-width: 1300px) {
@@ -1401,7 +1402,7 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
   font-size: 11px;
 }
 #navbar li {
-	margin: auto;
+	margin: 0px -15px 0 0px;
 }
 }
 
