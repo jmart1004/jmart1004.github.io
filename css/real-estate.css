@@ -1393,7 +1393,7 @@ g.c3-chart-bars > .c3-chart-bar:nth-child(2) .c3-bar {
   font-size: 11px;
 }
 #navbar li {
-	margin: auto;
+	margin: 0 0 0 4px;
 }
 }
 
